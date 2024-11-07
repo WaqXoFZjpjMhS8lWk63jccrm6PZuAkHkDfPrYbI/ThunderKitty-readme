@@ -6,7 +6,7 @@
  - [> PulzeTools Discord <](https://discord.gg/ahHWMAPU33)
  - [> Pulze Telegram <](https://t.me/pulzetools)
 
-##🥷🏻 | Features <br>
+##🥷🏻 | Features
 --
 
 🛜 Advanced Virtual Machine detection <br>
