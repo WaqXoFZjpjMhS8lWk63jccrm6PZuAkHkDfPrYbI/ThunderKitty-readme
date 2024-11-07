@@ -12,27 +12,28 @@
 🛜 Advanced Virtual Machine detection
 🖥️ System Info
 --
-🚀 Supports Latest Browsers:
-✅ Chrome v127+ (Brave, Chrome, Edge, Opera)
-✅ Gecko Browsers (Firefox)
+--🚀 Supports Latest Browsers:
+--✅ Chrome v127+ (Brave, Chrome, Edge, Opera)
+--✅ Gecko Browsers (Firefox)
 --
-💰 Local and Browser Wallet Stealing! 💰
-🔥 Exodus | MetaMask | CoinBase | Trust Wallet | Phantom & 34 MORE
+### 💰 Crypto
+--💰 Local and Browser Wallet Stealing!
+--🔥 Exodus | MetaMask | CoinBase | Trust Wallet | Phantom & 34 MORE
 --
-🎮 Games 🎮
-🎮 Roblox Cookie
-🎮 Minecraft 14+ Clients
-🕹 Epic Games
-🎮 EA Games
-🎮 Growtopia
-🎮 Battle.net
+###🎮 Games 🎮
+--🎮 Roblox Cookie
+--🎮 Minecraft 14+ Clients
+--🕹 Epic Games
+--🎮 EA Games
+--🎮 Growtopia
+--🎮 Battle.net
 --
-💬 Socials 💬
-💬 Messaging Apps:
-📞 Skype | 🐧 Pidgin | 📱 Telegram | 🧑‍💻 qTox | 💬 ICQ | 🧑‍🤝‍🧑 Element | 🔒 Signal | 📞 Viber | 🎮 Discord Tokens
+###💬 Socials 💬
+--💬 Messaging Apps:
+--📞 Skype | 🐧 Pidgin | 📱 Telegram | 🧑‍💻 qTox | 💬 ICQ | 🧑‍🤝‍🧑 Element | 🔒 Signal | 📞 Viber | 🎮 Discord Tokens
 --
-🛡 VPNs 🛡
-🔒 Proton | 🌊 Surfshark | 🌐 OpenVPN
+--🛡 VPNs 🛡
+--🔒 Proton | 🌊 Surfshark | 🌐 OpenVPN
 
 
 ## 🐀 | Extras
