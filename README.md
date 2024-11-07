@@ -18,7 +18,7 @@
 
 ### 💰 Crypto
 --
-💰 Local and Browser Wallet Stealing!< br/>
+💰 Local and Browser Wallet Stealing! <br>
 🔥 Exodus | MetaMask | CoinBase | Trust Wallet | Phantom & 34 MORE< br/>
 --
 ###🎮 Games 🎮
