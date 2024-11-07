@@ -19,27 +19,27 @@
 ### 💰 Crypto
 --
 💰 Local and Browser Wallet Stealing! <br>
-🔥 Exodus | MetaMask | CoinBase | Trust Wallet | Phantom & 34 MORE< br/>
+🔥 Exodus | MetaMask | CoinBase | Trust Wallet | Phantom & 34 MORE <br>
 --
 ###🎮 Games 🎮
-🎮 Roblox Cookie
-🎮 Minecraft 14+ Clients
-🕹 Epic Games
-🎮 EA Games
-🎮 Growtopia
-🎮 Battle.net
+🎮 Roblox Cookie <br>
+🎮 Minecraft 14+ Clients <br>
+🕹 Epic Games <br>
+🎮 EA Games <br>
+🎮 Growtopia <br>
+🎮 Battle.net <br>
 --
 ###💬 Socials 💬
-💬 Messaging Apps:
-📞 Skype | 🐧 Pidgin | 📱 Telegram | 🧑‍💻 qTox | 💬 ICQ | 🧑‍🤝‍🧑 Element | 🔒 Signal | 📞 Viber | 🎮 Discord Tokens
+💬 Messaging Apps: <br>
+📞 Skype | 🐧 Pidgin | 📱 Telegram | 🧑‍💻 qTox | 💬 ICQ | 🧑‍🤝‍🧑 Element | 🔒 Signal | 📞 Viber | 🎮 Discord Tokens <br>
 --
 --🛡 VPNs 🛡
---🔒 Proton | 🌊 Surfshark | 🌐 OpenVPN
+--🔒 Proton | 🌊 Surfshark | 🌐 OpenVPN <br>
 
 
 ## 🐀 | Extras
 --
-Automatic Obfuscation < br/>
-Multiple Failsafes
-Developed Persistance Methods
+Automatic Obfuscation <br>
+Multiple Failsafes <br>
+Developed Persistance Methods <br>
 --
